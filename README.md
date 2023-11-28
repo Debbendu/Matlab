@@ -1,2 +1,3 @@
 # Matlab
-I am an water resources engineer and  try to engage the programming skills in water resources field
+ManitobaIDF.m code is written to show the IDF curve and hydrograph generated from rainfall station data(daily).
+thesisfinal.m is written to extract the climatic datasets according to the coordinates from the whole Bangladehsh data(txt)
